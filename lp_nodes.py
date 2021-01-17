@@ -3,8 +3,6 @@
 # Modules
 import hou
 
-# Limit aditional sculpt the parent around scaled script
-
 # Code
 class CustomGeoNodes:
 
